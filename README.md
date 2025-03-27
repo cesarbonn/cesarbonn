@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @cesarbonn
 - ✨ I’m currently studying information engineering, i'm in the 4th year
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning JS and Java
+- 🌱 I’m currently learning Acronis Cloud Tech Fundamentals
 - 💞️ I’m looking to collaborate on any interesting project 
 - 📫 How to reach me
-- Mail: Cesar.bonnet.cb@gmai.com Instagram: cesar_bonnet
-- ⚡ Fun fact: I like to read books 
+- Mail: Cesar.bonnet.cb@gmai.com
+- Instagram: cesar_bonnet
+- LinkedIn:www.linkedin.com/in/cesar-bonnet-profile
+- ⚡ Fun fact: I like to read books and i'm doing a web scraping project 
 
 <!---
 cesarbonn/cesarbonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
