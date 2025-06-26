@@ -7,7 +7,7 @@
 - Mail: Cesar.bonnet.cb@gmai.com
 - Instagram: cesar_bonnet
 - LinkedIn:www.linkedin.com/in/cesar-bonnet-profile
-- ⚡ Fun fact: I like to read books and i'm doing a web scraping project 
+- ⚡ Fun fact: I like to read books  
 
 <!---
 cesarbonn/cesarbonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
