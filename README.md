@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @cesarbonn
 - ✨ I’m currently studying information engineering, i'm in the 4th year
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Acronis Cloud Tech Fundamentals
-- 💞️ I’m looking to collaborate on any interesting project 
-- 📫 How to reach me
 - Mail: Cesar.bonnet.cb@gmai.com
 - Instagram: cesar_bonnet
 - LinkedIn:www.linkedin.com/in/cesar-bonnet-profile  
